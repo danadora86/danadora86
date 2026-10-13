@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dana-Ionela Dorache
 ============================================================================================================================================
 
-Computer Science Student Year 2
+Computer Science Student Year 3
 -------------------------------
 
 Hi, I’m Dana‑Ionela Dorache — a passionate Computer Science student in Year 2, building my skills in modern web development and real‑world software projects.
